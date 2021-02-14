@@ -14,8 +14,9 @@ Sentiment analysis & machine learning model to predict stock movement. Experimen
 ![result](Images/smasa2.png)
 
 ## Machine Learning Model
+<pre>         SVM               |       Random Forest          |           MLP </pre>
 ![result](Images/tml.png)
-<pre>         SVM               |       Random Forest        |           MLP </pre>
+
 ### Support Vector Machine
 ![result](Images/svm.png)
 
