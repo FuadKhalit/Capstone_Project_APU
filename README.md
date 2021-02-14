@@ -6,12 +6,12 @@ Sentiment analysis & machine learning model to predict stock movement. Experimen
 ![result](Images/pscore.png)
 
 ## Baseline Benchmark (Buy & Hold Strategy)
-![result](Images/bh.png)<br>
-![result](Images/tbh.png)
+![result](Images/tbh.png)<br>
+![result](Images/bh.png)
 
 ## Simple Moving Average + Sentiment Analysis Model 
-![result](Images/tsbh.png)<br>
-![result](Images/bh.png)
+![result](Images/SMASA.png)<br>
+![result](Images/smasa2.png)
 
 ## Machine Learning Model
 ![result](Images/tml.png)
