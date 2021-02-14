@@ -10,8 +10,8 @@ Sentiment analysis & machine learning model to predict stock movement. Experimen
 ![result](Images/tbh.png)
 
 ## Simple Moving Average + Sentiment Analysis Model 
-![result](Images/bh.png)<br>
-![result](Images/tsbh.png)
+![result](Images/tsbh.png)<br>
+![result](Images/bh.png)
 
 ## Machine Learning Model
 ![result](Images/tml.png)
